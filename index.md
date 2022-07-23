@@ -2,22 +2,17 @@
 layout: default
 ---
 
-# High-Performance Computing Workshop
+# Introduction to Deep Learning
 
-In the past 50 years, supercomputers have achieved what was once considered only possible in Sci-Fi movies. The key to the tremendous success of supercomputers has been a combination of outstanding architectures plus software that uses all the available resources and makes parallelization possible. This secret sauce has led to different implementations across fields. Scientists typically rely on three main programming interfaces: OpenMP for shared memory computers (multicore processors), CUDA for GPU computing, and MPI for distributed memory computers. In this workshop, we will explore two key techniques that will allow you to get quickly started with HPC:
+Deep Learning is a rapidly expanding field with new applications found every day. In this workshop, we will cover the fundamentals of deep learning for the beginner. We will introduce the math behind training deep learning models: the back-propagation algorithm. Building conceptual understanding of the fundamentals of deep learning will be the focus of the first part of the workshop. We will then cover some of the popular architectures used in deep learning, such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), LSTMs, autoencoders and GANs. There will be a hands-on computing tutorial using Jupyter notebooks to build a basic image classification model via transfer learning.  By the end of the workshop, participants will have a firm understanding of the basic terminology and jargon of deep learning and will be prepared to dive into the plethora of online resources and literature available for each specific application area.
 
-- **Multicore programming using OpenMP:** this is a simple approach to writing parallel codes for multicore processors.
-- **GPU programming using OpenACC.** GPU processors can deliver unprecedented performance. The most powerful one is currently the GeForce RTX 3090 Ti from NVIDIA, with a performance of 40 TFlops in single precision (which is equal to *40,000,000,000,000* flops; that's a 4 followed by 13 zeros). Although most programs running on NVIDIA GPUs are written in CUDA, we will discuss **OpenACC,** which is an easier approach to GPU programming and allows quickly getting started with GPU programming for both the NVIDIA and AMD GPUs.
 
-The final goal is to give the student a taste of some of the key techniques for programming HPC processors and computers and provide hands-on examples that students can experiment with.
 
 ## About the Instructor
 
-![Eric Darve](/assets/img/eric_darve.jpeg){:style="max-width:30%;"}
+![Aashwin Mishra](/assets/img/eric_darve.jpeg){:style="max-width:30%;"}
 
-Professor Eric Darve received his Ph.D. in Applied Mathematics at the Jacques-Louis Lions Laboratory in the Pierre et Marie Curie University, Paris, France. His advisor was Prof. Olivier Pironneau, and his Ph.D. thesis was entitled "Fast Multipole Methods for Integral Equations in Acoustics and Electromagnetics." He was previously a student at the Ecole Normale Supérieure, rue d'Ulm, Paris, in Mathematics and Computer Science. Prof. Darve became a postdoctoral scholar with Profs. Moin and Pohorille at Stanford and NASA Ames in 1999 and joined the faculty at Stanford University in 2001. He is a member of the Institute for Computational and Mathematical Engineering. 
-
-His research interests involve HPC, GPU programming, numerical linear algebra, machine learning for science and engineering, and algorithms for anomaly detection.
+Aashwin Mishra is a Project Scientist at the Machine Learning Initiative at the National Accelerator Laboratory (SLAC). His research focuses on uncertainty quantification, probabilistic modeling, interpretability/explainability, and optimization across physics applications.
 
 # Workshop Materials
 
@@ -31,12 +26,12 @@ For example, click on `colab_demo.ipynb`. Then click on `Runtime -> Run All`. Th
 
 ## Schedule
 
-#### Session 1 (Thursday, August 11 1:00 PM - 4:00 PM PDT)
+#### Session 1 (Tuesday, August 9 1:00 PM - 4:00 PM PDT)
 
 - Introduction to High-Performance Computing
 - Multicore programming using OpenMP
   
-#### Session 2 (Friday, August 12 1:00 PM - 4:00 PM PDT)
+#### Session 2 (Wednesday, August 10 1:00 PM - 4:00 PM PDT)
 
 - GPU programming using OpenACC
 - Hands-on lab with an n-body code modeling n particles interacting with gravitational forces. This type of method can be used as a model of the planets orbiting the sun in the solar system.
