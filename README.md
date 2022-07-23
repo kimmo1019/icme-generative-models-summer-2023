@@ -1,16 +1,16 @@
-# ICME HPC Summer Workshop 2022
+# ICME Deep Learning Summer Workshop 2022
 
 Teaching Staff:
 
-- Eric Darve
-- Chenzhuo Zhu
+- Aashwin Mishra
+- Sam Gorman
 
-This repository contains material for the ICME HPC Summer Workshop 2022.
+This repository contains material for the ICME Deep Learning Summer Workshop 2022.
 
 Link to workshop web page:
 
-https://ericdarve.github.io/icme-hpc-summer-2022/
+TODO
 
 Link for google colab notebooks to be used during the workshop:
 
-https://drive.google.com/drive/folders/1pwvw_HvZMtQqZl00nl95jDOUt-KPd_xy?usp=sharing
+TODO
