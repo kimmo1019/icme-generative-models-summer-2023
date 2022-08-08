@@ -66,7 +66,7 @@ Data Augmentation
 
 -[Introduction to Torch](https://colab.research.google.com/drive/1b1ifUhsdo7rYeUEKBjEQkWTgWX0EgEz6?usp=sharing)
 
--[My First Torch Model:](https://colab.research.google.com/drive/1b1ifUhsdo7rYeUEKBjEQkWTgWX0EgEz6?usp=sharing)
+-[My First Torch Model:](https://colab.research.google.com/drive/1GLihAAAmsz1Snqt2GLg55hSO0UQWBGLM?usp=sharing)
 
 -[MNIST with an FCNN:](https://colab.research.google.com/drive/1Wp2jWYnZ50VWBPCVEkPemUcF3ohrxrct?usp=sharing)
 
