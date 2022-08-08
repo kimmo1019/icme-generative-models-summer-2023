@@ -29,7 +29,6 @@ b) Numpy
 
 c) basic concepts of Machine Learning (desirable) 
 
- 
 
 For (a), you should have written codes in Python, and at some juncture, defined and used a class. 
 
@@ -41,22 +40,22 @@ For (b), you should be comfortable in basic linear algebra operations in Numpy, 
 
 #### Session 1 (Tuesday, August 9 1:00 PM - 4:00 PM PDT)
 
-Review of basic ML concepts
-Overview of deep learning
-Coding a perceptron in numpy
-Understanding fully connected neural networks
-Coding fully connected neural networks in numpy
-Introduction to Torch
-Using the AD facilities in torch to train models
-Using the sub-modules in torch to define and train models
+-Review of basic ML concepts
+-Overview of deep learning
+-Coding a perceptron in numpy
+-Understanding fully connected neural networks
+-Coding fully connected neural networks in numpy
+-Introduction to Torch
+-Using the AD facilities in torch to train models
+-Using the sub-modules in torch to define and train models
   
 #### Session 2 (Wednesday, August 10 1:00 PM - 4:00 PM PDT)
 
 
-Understanding Convolutional Neural Networks
-Defining and Training CNNs in torch 
-Using GPUs for training
-Data Augmentation 
+-Understanding Convolutional Neural Networks
+-Defining and Training CNNs in torch 
+-Using GPUs for training
+-Data Augmentation 
 
 #### Google Colab notebooks
 
