@@ -40,6 +40,8 @@ For (b), you should be comfortable in basic linear algebra operations in Numpy, 
 
 #### Session 1 (Tuesday, August 9 1:00 PM - 4:00 PM PDT)
 
+-[Recording of session 1](https://stanford.zoom.us/rec/share/RnyMtZprvqt5koJUADNoleea81GxBE_W5AR0-Cla3EXwfkFJes1jiGH4icVowfAI.BL2ezLklu15PzXoK?startTime=1660074060000)
+
 -Review of basic ML concepts
 
 -Overview of deep learning
@@ -71,7 +73,11 @@ For (b), you should be comfortable in basic linear algebra operations in Numpy, 
 
 -[Linear Regression Exercise in Numpy:](https://colab.research.google.com/drive/1w0C62ikCOotfBJ5FbzQu4I3weu6viAmj?usp=sharing)
 
+-[Solutions: Linear Regression Exercise in Numpy](https://colab.research.google.com/drive/1w0C62ikCOotfBJ5FbzQu4I3weu6viAmj?usp=sharing)
+
 -[Shallow Neural Network in Numpy:](https://colab.research.google.com/drive/1mbquyEd_N_JMh8nTupbXgId1ArVZuP3L?usp=sharing)
+
+-[Solutions: Shallow Neural Network in Numpy](https://colab.research.google.com/drive/1mbquyEd_N_JMh8nTupbXgId1ArVZuP3L?usp=sharing)
 
 -[Introduction to Torch](https://colab.research.google.com/drive/1b1ifUhsdo7rYeUEKBjEQkWTgWX0EgEz6?usp=sharing)
 
