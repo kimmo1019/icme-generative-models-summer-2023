@@ -60,6 +60,7 @@ For (b), you should be comfortable in basic linear algebra operations in Numpy, 
   
 #### Session 2 (Wednesday, August 10 1:00 PM - 4:00 PM PDT)
 
+-[Recording of session 2](https://stanford.zoom.us/rec/share/rWi9bweXG3QJvF7M1rURkEHcSn_kN2Cw7pK1SJjxpFJqnTg7hPnDG7-K41dG6kM0.Vq_VzePu5vP1HGJA?startTime=1660160664000)
 
 -Understanding Convolutional Neural Networks
 
