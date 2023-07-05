@@ -1,15 +1,16 @@
-# ICME Deep Learning Summer Workshop 2022
+# ICME Generative Models Summer Workshop 2023
 
 
 Teaching Staff:
 
 - Aashwin Mishra
-- Sam Gorman
+- Qiao Liu
 
-This repository contains material for the ICME Deep Learning Summer Workshop 2022.
+This repository contains material for the ICME Generative Models Summer Workshop 2023.
 
 ## Course website:
-https://samjgorman.github.io/icme-deep-learning-summer-2022/
+
+https://kimmo1019.github.io/icme-generative-models-summer-2023/
 
 ## Workshop notebooks: 
 
