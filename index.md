@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Introduction to Deep Learning
+# Introduction to Generative Models
 
-Deep Learning is a rapidly expanding field with new applications found every day. In this workshop, we will cover the fundamentals of deep learning for the beginner. 
+Join us for the Generative Models workshop and unlock the fascinating world of Deep Generative Modeling. In this rapidly growing field of Machine Learning, you'll discover how computers can create intricate landscapes, generate images of non-existent humans, and produce stunning art. Deep Generative Models provide a paradigm shift from traditional discriminative models, allowing the creation of new content based on user input rather than classification.
 
-We will introduce the math behind training deep learning models: the back-propagation algorithm. Building conceptual understanding of the fundamentals of deep learning will be the focus of the first part of the workshop. We will then cover some of the popular architectures used in deep learning, such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), LSTMs, autoencoders and GANs. 
+During this workshop, you'll delve into the foundational concepts of Deep Generative Modeling, explore various types of models, and learn about their diverse applications in different fields. With a focus on Python, you'll gain hands-on experience in creating your own Deep Generative Models for various tasks. The workshop features engaging lectures, practical coding exercises, and insightful reviews to enhance your understanding. By the end of the workshop, you'll develop a clear comprehension of the underlying theory and concepts of Deep Generative Modeling. You'll explore different models such as Generative Adversarial Networks (GANs), Variational Auto-Encoders (VAEs), and Diffusion Models. Discover how these models are applied in academia, industry, and your own work. With hands-on coding experience in PyTorch, you'll be equipped to implement these models from scratch and apply them to your own applications. Join us and unleash the power of Deep Generative Modeling in the world of Machine Learning.
 
-There will be a hands-on computing tutorial using Jupyter notebooks to build a basic image classification model via transfer learning.  By the end of the workshop, participants will have a firm understanding of the basic terminology and jargon of deep learning and will be prepared to dive into the plethora of online resources and literature available for each specific application area.
+It is important to note that participants do not need to install Python or any other libraries before the workshop. The workshop will utilize Jupyter notebooks, and all the necessary code, exercises, and solutions will be shared online. A Google account will be required as the workshop will use Google Colab for sharing the notebooks.
 
 
 ## About the Instructor
@@ -21,20 +21,13 @@ Aashwin Mishra is a Project Scientist at the Machine Learning Initiative at the 
 
 ## Pre-workshop Checklist
 
-The workshop assumes that you have requisite knowledge of: 
+The workshop assumes that you have the requisite knowledge of: 
 
-a) Python programming 
+- Prior Experience in Python Programming: Participants should have prior experience in programming, particularly using Python. Familiarity with Python syntax, data structures, control flow, and the ability to write and execute Python code is essential for understanding and implementing generative models. Knowledge of common Python libraries used in deep learning, such as PyTorch, will also be beneficial.
 
-b) Numpy 
+- Understanding of Probability Theory and Linear Algebra: A solid understanding of probability theory is recommended. Participants should be familiar with basic probability concepts such as probability distributions, conditional probability, and expectations. Additionally, a foundational understanding of linear algebra, including concepts such as vectors, matrices, matrix operations, and vector spaces, is important for comprehending the underlying mathematics of generative models.
 
-c) basic concepts of Machine Learning (desirable) 
-
-
-For (a), you should have written codes in Python, and at some juncture, defined and used a class. 
-
-For (b), you should be comfortable in basic linear algebra operations in Numpy, understand broadcasting, etc. 
-
-(c) is desirable, but not required. 
+- Basic Experience with Deep Learning: Participants should have basic experience and knowledge of deep learning concepts. This includes understanding the fundamentals of training neural networks, common activation functions, loss functions, optimization algorithms (e.g., gradient descent), and the general workflow of developing deep learning models. The "Introduction to Deep Learning" workshop offered in the same series is mentioned as covering most of the required prerequisites, so attending that workshop beforehand is recommended.
 
 ## Schedule
 
