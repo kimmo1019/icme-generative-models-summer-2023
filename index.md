@@ -31,6 +31,17 @@ The workshop assumes that you have the requisite knowledge of:
 
 ## Schedule
 
+1. Introduction to Generative Modeling
+2. Review of PyTorch
+3. Theory of Generative Adversarial Networks (GANs)
+4. Hands on Exercises on GANs
+
+
+5. Theory underlying Autoencoders
+6. Hands on exercises on Autoencoders
+7. Theory underlying Variational AutoEncoders (VAEs)
+8. Hands on exercises on VAEs 
+
 
 #### Google Colab notebooks
 
