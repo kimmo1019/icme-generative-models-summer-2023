@@ -12,6 +12,25 @@ This repository contains material for the ICME Generative Models Summer Workshop
 
 https://kimmo1019.github.io/icme-generative-models-summer-2023/
 
+## Schedule
+
+    Introduction to Generative Modeling
+
+    Review of PyTorch
+
+    Theory of Generative Adversarial Networks (GANs)
+
+    Hands on Exercises on GANs
+
+    Theory underlying Autoencoders
+
+    Hands on exercises on Autoencoders
+
+    Theory underlying Variational AutoEncoders (VAEs)
+
+    Hands on exercises on VAEs
+
+
 ## Workshop notebooks: 
 
 Review of PyTorch:
