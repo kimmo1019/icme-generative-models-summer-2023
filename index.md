@@ -31,56 +31,7 @@ The workshop assumes that you have the requisite knowledge of:
 
 ## Schedule
 
-#### Session 1 (Tuesday, August 9 1:00 PM - 4:00 PM PDT)
-
--[Recording of session 1](https://stanford.zoom.us/rec/share/RnyMtZprvqt5koJUADNoleea81GxBE_W5AR0-Cla3EXwfkFJes1jiGH4icVowfAI.BL2ezLklu15PzXoK?startTime=1660074060000)
-
--Review of basic ML concepts
-
--Overview of deep learning
-
--Coding a perceptron in numpy
-
--Understanding fully connected neural networks
-
--Coding fully connected neural networks in numpy
-
--Introduction to Torch
-
--Using the AD facilities in torch to train models
-
--Using the sub-modules in torch to define and train models
-  
-#### Session 2 (Wednesday, August 10 1:00 PM - 4:00 PM PDT)
-
--[Recording of session 2](https://stanford.zoom.us/rec/share/rWi9bweXG3QJvF7M1rURkEHcSn_kN2Cw7pK1SJjxpFJqnTg7hPnDG7-K41dG6kM0.Vq_VzePu5vP1HGJA?startTime=1660160664000)
-
--Understanding Convolutional Neural Networks
-
--Defining and Training CNNs in torch 
-
--Using GPUs for training
-
--Data Augmentation 
 
 #### Google Colab notebooks
 
--[Linear Regression Exercise in Numpy:](https://colab.research.google.com/drive/1w0C62ikCOotfBJ5FbzQu4I3weu6viAmj?usp=sharing)
-
--[Solutions: Linear Regression Exercise in Numpy](https://colab.research.google.com/drive/1w0C62ikCOotfBJ5FbzQu4I3weu6viAmj?usp=sharing)
-
--[Shallow Neural Network in Numpy:](https://colab.research.google.com/drive/1mbquyEd_N_JMh8nTupbXgId1ArVZuP3L?usp=sharing)
-
--[Solutions: Shallow Neural Network in Numpy](https://colab.research.google.com/drive/1mbquyEd_N_JMh8nTupbXgId1ArVZuP3L?usp=sharing)
-
--[Introduction to Torch](https://colab.research.google.com/drive/1b1ifUhsdo7rYeUEKBjEQkWTgWX0EgEz6?usp=sharing)
-
--[My First Torch Model:](https://colab.research.google.com/drive/1GLihAAAmsz1Snqt2GLg55hSO0UQWBGLM?usp=sharing)
-
--[MNIST with an FCNN:](https://colab.research.google.com/drive/1Wp2jWYnZ50VWBPCVEkPemUcF3ohrxrct?usp=sharing)
-
--[CIFAR10 with CNNs:](https://colab.research.google.com/drive/1eZniJ3FW77cAy4U3cSieJPSq-ukMARPY?usp=sharing)
-
--[CIFAR10 with GPUs:](https://colab.research.google.com/drive/153nTZtmHENNTx-XLWw3kl41Shd-ZvXVJ?usp=sharing)
-
--[Data Augmentation for Computer Vision:](https://colab.research.google.com/drive/1Ug0STBPfwc0Q7YSBasliIJCC38y9pOVm?usp=sharing)
+-[Pytorch Review:](https://colab.research.google.com/drive/1Ug0STBPfwc0Q7YSBasliIJCC38y9pOVm?usp=sharing)
