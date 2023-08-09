@@ -40,5 +40,5 @@ Generative Adversarial Networks (GAN) Exercise 1:
 https://colab.research.google.com/drive/1cGtOR7EkISxIGKmSGlEpB27QOhgruUsf?usp=sharing
 
 Generative Adversarial Networks (GAN) Exercise 2:
-https://colab.research.google.com/drive/1cGtOR7EkISxIGKmSGlEpB27QOhgruUsf?usp=sharing
+https://colab.research.google.com/drive/1kEAXtWU1sHapxILLRN0djEVG8KkE4cH2?usp=sharing
 
