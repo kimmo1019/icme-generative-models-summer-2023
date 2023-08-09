@@ -46,3 +46,5 @@ The workshop assumes that you have the requisite knowledge of:
 #### Google Colab notebooks
 
 -[Pytorch Review:](https://colab.research.google.com/drive/1Ug0STBPfwc0Q7YSBasliIJCC38y9pOVm?usp=sharing)
+-[Generative Adversarial Networks (GAN) Exercise 1:](https://colab.research.google.com/drive/1cGtOR7EkISxIGKmSGlEpB27QOhgruUsf?usp=sharing)
+-[Generative Adversarial Networks (GAN) Exercise 2:](https://colab.research.google.com/drive/1cGtOR7EkISxIGKmSGlEpB27QOhgruUsf?usp=sharing)
