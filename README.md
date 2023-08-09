@@ -31,7 +31,7 @@ https://kimmo1019.github.io/icme-generative-models-summer-2023/
     Hands on exercises on VAEs
 
 
-## Workshop notebooks: 
+## Workshop Notebooks & Slides: 
 
 Review of PyTorch:
 https://colab.research.google.com/drive/1Ug0STBPfwc0Q7YSBasliIJCC38y9pOVm?usp=sharing
