@@ -52,3 +52,5 @@ The workshop assumes that you have the requisite knowledge of:
 -[Generative Adversarial Networks (GAN) Exercise 2:](https://colab.research.google.com/drive/1kEAXtWU1sHapxILLRN0djEVG8KkE4cH2?usp=sharing)
 
 -[Generative Adversarial Networks (GAN) Exercise 3:](https://colab.research.google.com/drive/14qnqrJbRY1GhXJv8pCvkgtrUYZKr2z0r?usp=sharing)
+
+-[Variational AutoEncoders (VAEs) Exercise 1:](https://colab.research.google.com/drive/14YOiFqcOT_lKnrcOUHiPhryW-OktUxCq?usp=sharing)
