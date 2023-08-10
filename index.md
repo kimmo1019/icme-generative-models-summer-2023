@@ -36,11 +36,14 @@ The workshop assumes that you have the requisite knowledge of:
 3. Theory of Generative Adversarial Networks (GANs)
 4. Hands on Exercises on GANs
 
+-[Slides 1](https://github.com/kimmo1019/icme-generative-models-summer-2023/blob/main/IntroductionToGenerativeModels.pdf)
+-[Slides 2](https://github.com/kimmo1019/icme-generative-models-summer-2023/blob/main/GAN%20Training(1).pdf)
 
-5. Theory underlying Autoencoders
-6. Hands on exercises on Autoencoders
-7. Theory underlying Variational AutoEncoders (VAEs)
-8. Hands on exercises on VAEs 
+
+6. Theory underlying Autoencoders
+7. Hands on exercises on Autoencoders
+8. Theory underlying Variational AutoEncoders (VAEs)
+9. Hands on exercises on VAEs 
 
 
 #### Google Colab notebooks
