@@ -41,7 +41,6 @@ The workshop assumes that you have the requisite knowledge of:
 -[Slides 1](https://raw.githubusercontent.com/kimmo1019/icme-generative-models-summer-2023/main/IntroductionToGenerativeModels.pdf)
 -[Slides 2](https://raw.githubusercontent.com/kimmo1019/icme-generative-models-summer-2023/main/GAN%20Training(1).pdf)
 
-
 6. Theory underlying Autoencoders
 7. Hands on exercises on Autoencoders
 8. Theory underlying Variational AutoEncoders (VAEs)
