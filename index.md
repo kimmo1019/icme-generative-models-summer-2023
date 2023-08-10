@@ -36,8 +36,10 @@ The workshop assumes that you have the requisite knowledge of:
 3. Theory of Generative Adversarial Networks (GANs)
 4. Hands on Exercises on GANs
 
--[Slides 1](https://github.com/kimmo1019/icme-generative-models-summer-2023/blob/main/IntroductionToGenerativeModels.pdf)
--[Slides 2](https://github.com/kimmo1019/icme-generative-models-summer-2023/blob/main/GAN%20Training(1).pdf)
+https://raw.githubusercontent.com/kimmo1019/icme-generative-models-summer-2023/main
+
+-[Slides 1](https://raw.githubusercontent.com/kimmo1019/icme-generative-models-summer-2023/main/IntroductionToGenerativeModels.pdf)
+-[Slides 2](https://raw.githubusercontent.com/kimmo1019/icme-generative-models-summer-2023/main/GAN%20Training(1).pdf)
 
 
 6. Theory underlying Autoencoders
