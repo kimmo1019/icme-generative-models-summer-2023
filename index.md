@@ -31,12 +31,12 @@ The workshop assumes that you have the requisite knowledge of:
 
 ## Schedule
 
+-[Recording of session 1](https://stanford.zoom.us/rec/share/X5spMO1jdgJYBAQ0il18Ef9C8e-3hcho_wLlH0efhPakM_3o1d5q3ISPYiZ0tNs3.t6YJgkjHCXfuQ1fB?startTime=1691609900000&pwd=bMwHOVOOXz5wC5l6mvQlkcBCn_l71YWs)
+
 1. Introduction to Generative Modeling
 2. Review of PyTorch
 3. Theory of Generative Adversarial Networks (GANs)
 4. Hands on Exercises on GANs
-
-https://raw.githubusercontent.com/kimmo1019/icme-generative-models-summer-2023/main
 
 -[Slides 1](https://raw.githubusercontent.com/kimmo1019/icme-generative-models-summer-2023/main/IntroductionToGenerativeModels.pdf)
 -[Slides 2](https://raw.githubusercontent.com/kimmo1019/icme-generative-models-summer-2023/main/GAN%20Training(1).pdf)
