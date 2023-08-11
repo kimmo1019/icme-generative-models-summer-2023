@@ -40,7 +40,7 @@ The workshop assumes that you have the requisite knowledge of:
 3. Theory of Generative Adversarial Networks (GANs)
 4. Hands on Exercises on GANs
 
--[Recording of session 2 (To be added)]
+-[Recording of session 2](https://stanford.zoom.us/rec/share/Ws657imRsMiYiA2aYWeVt-JzwAZu6TIspCJ4Z5EA6lBQ7IDwDLa2FPtvtMU36M6J.5ZV2AIA_5bavLv-a?pwd=khjOAFxrLKVOatJmuZP_cBidB2G_ASdD)
 
 6. Theory underlying Autoencoders
 7. Hands on exercises on Autoencoders
